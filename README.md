@@ -1,2 +1,2 @@
 # ApiCatalogoJogos
-Projeto desenvolvido para exemplificar a estrutura de uma API Rest.
+Projeto desenvolvido para a estrutura de uma API Rest para catálogo de jogos.
